@@ -19,8 +19,9 @@
 	- **Recent Works:** In 2023, she released the album "Vilã" and performed at the Rock in Rio and The Town festivals. Ludmilla also left Warner Music Brasil to launch her independent label.
 	- **Public Image:** Ludmilla is known as the "Queen of the Favela," a gay icon, and a vocal advocate for LGBTQ+ rights. She has faced and addressed racism publicly.
 - ## **Gallery**
-	- <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-	- <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/DWH349RfD7E?si=pyO3fpVjbq1b_Dp6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/0-mKwNMXETo?si=psqP3v0nuKOOI_Bb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/RNVLCr-Y7rQ?si=Q3QbSEhAyqdukTni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>gk
 - ## **Similar Artists**
 	- ## **Similar Artists**
 		- | Influenced By            | Influenced     |
