@@ -1,8 +1,8 @@
 ---
 ---
 
-- ---
-  ---
+
+
 - ![caetano veloso.png](../assets/caetano_veloso_1717739862856_0.png)
 - | **Full Name**     | Caetano Emanuel Viana Teles Veloso  |
   |-------------------|--------------------------------------|

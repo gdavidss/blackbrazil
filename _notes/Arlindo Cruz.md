@@ -1,8 +1,8 @@
 ---
 ---
 
-- ---
-  ---
+
+
 - ![arlindo cruz.png](../assets/arlindo_cruz_1717740475839_0.png)
 - | **Full Name**     | Arlindo Domingos da Cruz Filho      |
   |-------------------|-------------------------------------|

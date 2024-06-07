@@ -1,9 +1,9 @@
 ---
 ---
 
-- ---
-  ---
-	- ![beth carvalho.png](../assets/beth_carvalho_1717738279208_0.png)
+
+
+
 	- | **Full Name**     | Elizabeth Santos Leal de Carvalho |
 	  |-------------------|------------------------------------|
 	  | **Date of Birth** | May 5, 1946                        |

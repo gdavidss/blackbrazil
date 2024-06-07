@@ -1,8 +1,9 @@
 ---
 ---
 
-- ---
-  ---
+
+
+
 - ![carlinhos brown.png](../assets/carlinhos_brown_1717739968075_0.png)
 - | **Full Name**     | Antônio Carlos Santos de Freitas         |
   |-------------------|-------------------------------------------|

@@ -1,0 +1,34 @@
+---
+---
+
+- ---
+  ---
+- ![djavan.png](../assets/djavan_1717739666069_0.png)
+- | **Full Name**     | Djavan Caetano Viana               |
+  |-------------------|--------------------------------------|
+  | **Date of Birth** | January 27, 1949                     |
+  | **Place of Birth**| Maceió, AL, Brazil                   |
+  | **Genres**        | MPB, Jazz, Bossa Nova                |
+  | **Occupations**   | Singer, Composer, Producer, Guitarist |
+  | **Active Years**  | 1968–present                         |
+  | **Record Labels** | Som Livre, EMI-Odeon, CBS, Sony Music |
+- ## **Biography**
+	- Djavan Caetano Viana, born on January 27, 1949, in Maceió, Alagoas, Brazil, is a distinguished Brazilian singer, composer, and producer. Known for his fusion of various musical styles such as jazz, blues, samba, and flamenco with influences from Northeastern Brazilian music, Djavan has become one of the most important artists in Brazilian music history. His notable songs include "Sina," "Flor de Lis," "Lilás," and "Oceano."
+- ## **Career Highlights**
+	- **1975:** Achieved recognition with "Fato Consumado."
+	- **1982:** Released the acclaimed album *Luz*, featuring the hit "Samurai" with Stevie Wonder.
+	- **1992:** Released *Coisa de Acender*, showcasing his diverse musical influences.
+	- **2000s:** Established his own record label, Luanda Records, and continued to produce influential music.
+	- **2016:** Honored with a Latin Grammy Lifetime Achievement Award.
+- ## **Artistic Style and Impact:**
+	- Djavan's music blends various genres, creating a unique sound that has captivated audiences worldwide. His poetic lyrics and intricate melodies have influenced many contemporary artists and solidified his status as a pioneer in Brazilian music.
+- ## **Gallery**
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/QlDCQjk2zx8?si=xZHlnBii4O91369u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/3-qwqrQXsXQ?si=lF9qExUa0KRwjxfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/4QiuEe43YJw?si=HJpiEV8uK9c7vVD6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- ## Similar Artists
+		- | Influenced By       | Influenced            |
+		  |---------------------|-----------------------|
+		  | [[Milton Nascimento]] | Seu Jorge             |
+		  | [[Caetano Veloso]]     | Emicida                |
+		  | [[Gilberto Gil]]   | Liniker                |

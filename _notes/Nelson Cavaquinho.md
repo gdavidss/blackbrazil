@@ -1,8 +1,9 @@
 ---
 ---
 
-- ---
-  ---
+
+
+
 - ![nelson cavaquinho.png](../assets/nelson_cavaquinho_1717738414893_0.png)
 - | **Full Name**     | Nelson Antônio da Silva             |
   |-------------------|------------------------------------|

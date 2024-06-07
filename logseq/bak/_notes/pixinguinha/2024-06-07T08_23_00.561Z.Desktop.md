@@ -1,0 +1,33 @@
+---
+---
+
+- ---
+  ---
+- ![pixinguinha.png](../assets/pixinguinha_1717738934745_0.png)
+- | **Full Name**     | Alfredo da Rocha Vianna Filho       |
+  |-------------------|------------------------------------|
+  | **Date of Birth** | May 4, 1897                        |
+  | **Place of Birth**| Rio de Janeiro, RJ, Brazil         |
+  | **Genres**        | Choro, Maxixe, Samba, Valsa        |
+  | **Occupations**   | Composer, Arranger, Conductor, Flautist, Saxophonist |
+  | **Active Years**  | 1911–1972                          |
+  | **Record Label**  | Odeon, RCA Victor, Sinter, Musidisc|
+- ## **Biography**
+	- Alfredo da Rocha Vianna Filho, known as Pixinguinha, was a pioneering Brazilian composer, arranger, and musician. He was instrumental in popularizing the choro genre and integrating contemporary harmonies with traditional Brazilian music. His compositions, such as "Carinhoso" and "Lamentos," remain classics. Pixinguinha's innovative approach and mastery of various instruments significantly influenced Brazilian music.
+- ## **Career Highlights**
+	- **Early Career:** Joined the Grupo do Caxangá in 1914 and formed the influential group Oito Batutas in 1919.
+	- **International Recognition:** Toured Europe with Oito Batutas in 1922, introducing Brazilian music to new audiences.
+	- **Major Compositions:** "Carinhoso," "Um a Zero," "Lamentos," and "Rosa."
+	- **Orchestral Work:** Led the Orquestra Victor Brasileira and made significant contributions to radio and recordings.
+- ## **Artistic Style and Impact:**
+	- Pixinguinha's work is characterized by its blend of Afro-Brazilian rhythms, sophisticated arrangements, and jazz influences. His contributions to the choro genre and Brazilian music as a whole are immeasurable, earning him a lasting legacy as a foundational figure in the nation's musical heritage.
+- ## **Gallery**
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/Ml-1tS_o9tM?si=A2jVh0rpkwCYA7m4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/8IhqXDQkWpQ?si=jid5tpPKxhHvvgxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/M0eW52F-nF0?si=K91e7B8JbhSUBax9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- ## Similar artists
+	- | Influenced By       | Influenced       |
+	  |---------------------|------------------|
+	  | Chiquinha Gonzaga | Altamiro Carrilho |
+	  | Heitor Villa-Lobos| Jacob do Bandolim|
+	  | [[Donga]]            | Waldir Azevedo   |

@@ -1,8 +1,9 @@
 ---
 ---
 
-- ---
-  ---
+
+
+
 - ![gal costa.png](../assets/gal_costa_1717740296041_0.png)
 - | **Full Name**     | Gal Maria da Graça Penna Burgos Costa  |
   |-------------------|-----------------------------------------|

@@ -1,0 +1,31 @@
+---
+---
+
+- ---
+  ---
+- ![carlinhos brown.png](../assets/carlinhos_brown_1717739968075_0.png)
+- | **Full Name**     | Antônio Carlos Santos de Freitas         |
+  |-------------------|-------------------------------------------|
+  | **Date of Birth** | November 23, 1962                         |
+  | **Place of Birth**| Salvador, BA, Brazil                      |
+  | **Genres**        | MPB, Axé, World Music, Samba-Reggae, Samba Duro |
+  | **Occupations**   | Singer, Composer, Producer, Arranger, Percussionist, Multi-Instrumentalist, Visual Artist |
+  | **Instruments**   | Voice, Guitar, Bass, Piano, Drums, Percussion, Drum Machines, Sampler, Timbal |
+  | **Active Years**  | 1979–present                              |
+  | **Affiliations**  | Tribalistas, Timbalada, Caetano Veloso, Gilberto Gil, Marisa Monte, Sergio Mendes |
+- ## **Biography and Career**
+	- **Early Life:** Born Antônio Carlos Santos de Freitas on November 23, 1962, in Salvador, Carlinhos Brown was introduced to music by Osvaldo Alves da Silva, known as Mestre Pintado do Bongô. His early instruments were percussion.
+	- **Musical Innovations:** Brown has been pivotal in developing the axé music and samba-reggae genres. He founded Timbalada in the 1990s, a percussion-based group that continues to innovate Brazilian music.
+	- **Career Highlights:** With over 800 compositions, Brown's collaborations include artists like Marisa Monte, Caetano Veloso, Gilberto Gil, and international stars like Shakira. He has won two Latin Grammys and was nominated for an Oscar for "Real in Rio."
+	- **Activism:** Brown is deeply involved in social projects, especially in Salvador's Candeal neighborhood, where he grew up. He founded Pracatum, a social action organization offering professional training and cultural activities.
+	- **Recent Works:** In 2020 and 2021, Brown released albums "Axé Inventions – Àjààlà," "Umbalista," "Umbalista Verão," and the children's album "Paxuá e Paramim em: A Floresta dos Rios Voadores."
+- ## **Gallery**
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/eVlvcgcHPTQ?si=UAacQ4UuIqxmM7D2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/_KAxOV1mCac?si=1tMiuQX5NEIGVJRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/EJpcrZaX10Y?si=nD4qJcVCi_l0Ajur" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- ## **Similar Artists**
+	- | Influenced By       | Influenced                    |
+	  |---------------------|-------------------------------|
+	  | [[Gilberto Gil]]    | Tribalistas                   |
+	  | [[Caetano Veloso]]  | Timbalada                     |
+	  | [[Marisa Monte]]    | Various Brazilian Artists     |

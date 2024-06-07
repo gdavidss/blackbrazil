@@ -1,8 +1,9 @@
 ---
 ---
 
-- ---
-  ---
+
+
+
 - ![liniker.png](../assets/liniker_1717739992665_0.png)
 - | **Full Name**     | Liniker de Barros Ferreira Campos      |
   |-------------------|----------------------------------------|

@@ -1,8 +1,9 @@
 ---
 ---
 
-- ---
-  ---
+
+
+
 - ![tim maia.png](../assets/tim_maia_1717740043648_0.png)
 - | **Full Name**     | Sebastião Rodrigues Maia          |
   |-------------------|-----------------------------------|

@@ -1,8 +1,9 @@
 ---
 ---
 
-- ---
-  ---
+
+
+
 - ![emicida.png](../assets/emicida_1717364103498_0.png)
 - | **Full Name**     | Leandro Roque de Oliveira          |
   |-------------------|------------------------------------|

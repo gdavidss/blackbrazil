@@ -1,8 +1,9 @@
 ---
 ---
 
-- ---
-  ---
+
+
+
 - ![sandra sá.png](../assets/sandra_sá_1717740251810_0.png)
 - | **Full Name**     | Sandra Cristina Malafaia Frederico de Sá |
   |-------------------|-------------------------------------------|

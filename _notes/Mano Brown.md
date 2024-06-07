@@ -1,8 +1,9 @@
 ---
 ---
 
-- ---
-  ---
+
+
+
 - ![mano brown.png](../assets/mano_brown_1717740579467_0.png)
 - | **Full Name**     | Pedro Paulo Soares Pereira         |
   |-------------------|------------------------------------|

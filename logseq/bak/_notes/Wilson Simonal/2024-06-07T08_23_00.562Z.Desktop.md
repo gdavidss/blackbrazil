@@ -1,0 +1,36 @@
+---
+---
+
+- ---
+  ---
+- ![wilson simonal.png](../assets/wilson_simonal_1717740653400_0.png)
+- | **Full Name**     | Wilson Simonal de Castro                |
+  |-------------------|-------------------------------------------|
+  | **Date of Birth** | February 23, 1938                         |
+  | **Place of Birth**| Rio de Janeiro, DF, Brazil                |
+  | **Date of Death** | June 25, 2000                             |
+  | **Place of Death**| São Paulo, SP, Brazil                     |
+  | **Genres**        | MPB, Samba Rock, Soul, Samba, Funk, Bossa Nova |
+  | **Occupations**   | Singer, Composer                          |
+  | **Active Years**  | 1961–2000                                 |
+  | **Record Labels** | EMI-Odeon, Philips, RCA, WEA, PolyGram, Universal |
+  | **Affiliations**  | Carlos Imperial, Jorge Ben Jor, César Camargo Mariano, Elis Regina |
+- ## **Biography and Career**
+	- **Early Life:** Wilson Simonal de Castro was born on February 23, 1938, in Rio de Janeiro. His musical journey began in his youth, influenced by the vibrant musical environment of the city.
+	- **1960s:** Achieved fame with hits like "Mamãe Passou Açúcar em Mim" and "Nem Vem Que Não Tem." Hosted popular TV shows and became a major figure in Brazilian music.
+	- **1970s:** Career declined after being associated with the DOPS, leading to accusations of collaboration with the military regime. Despite this, he continued to produce music and perform.
+	- **1980s-1990s:** Struggled with alcoholism and reduced public presence. Released a few albums independently and performed in smaller venues.
+	- **2000s:** Passed away on June 25, 2000, due to complications from cirrhosis. Posthumously recognized for his contributions to Brazilian music, though controversies surrounding his political associations persisted.
+- ## **Artistic Style and Impact**
+	- Known for his powerful voice and ability to blend various genres such as MPB, samba rock, soul, and bossa nova. Simonal was a trailblazer in Brazilian music, influencing many artists and leaving a lasting legacy despite the controversies that marred his career.
+- ## **Gallery**
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/LsytP1xZGSo?si=TS_pkZZNc3IJbt-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/XCKrujAIgIs?si=djJyfZyCEKz0ykt9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/eoGBsvxprz8?si=fjZsZaEHWBSO7nZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/qLlMoHzK-Gg?si=7sFStMmToexAFFvD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- ## **Similar Artists**
+	- | Influenced By       | Influenced                    |
+	    |---------------------|-------------------------------|
+	    | [[Jorge Ben Jor]]   | [[Seu Jorge]]                     |
+	    | Elis Regina     | [[Emicida]]                      |
+	    | Carlos Imperial | Wilson Simoninha              |

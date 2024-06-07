@@ -1,5 +1,7 @@
-- ---
-  ---
+---
+---
+
+
 - ![jorge ben jor.png](../assets/jorge_ben_jor_1717740610790_0.png)
 - | **Full Name**     | Jorge Duílio Lima Meneses         |
   |-------------------|-----------------------------------|
