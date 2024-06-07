@@ -1,0 +1,32 @@
+---
+---
+
+- ---
+  ---
+- ![emicida.png](../assets/emicida_1717364103498_0.png)
+- | **Full Name**     | Leandro Roque de Oliveira          |
+  |-------------------|------------------------------------|
+  | **Date of Birth** | August 17, 1985                    |
+  | **Place of Birth**| São Paulo, SP, Brazil              |
+  | **Genres**        | Rap, Hip Hop, MPB                  |
+  | **Occupations**   | Rapper, Singer, Composer, Writer, Presenter |
+  | **Active Years**  | 2005–present                       |
+  | **Record Label**  | Laboratório Fantasma               |
+- ## **Biography**
+	- Leandro Roque de Oliveira, known as Emicida, is a prominent Brazilian rapper and a significant figure in the hip hop scene. His stage name blends "MC" with the Latin suffix "-cida", indicating his prowess in rap battles. His music is characterized by social commentary, lyrical complexity, and a deep connection to his roots.
+- ## **Career Highlights**
+	- **First Mixtape (2009):** *Pra quem já Mordeu um Cachorro por Comida, até que eu Cheguei Longe...*
+	- **Notable EP (2010):** *Sua Mina Ouve Meu Rep também*
+	- **Grammy-Nominated Album (2015):** *Sobre Crianças, Quadris, Pesadelos e Lições de Casa...*
+	- **Major Project (2019):** *AmarElo*, including an album, podcast, and Netflix documentary.
+- ## **Artistic Style and Impact:**
+	- Emicida's style combines raw, powerful lyrics with diverse musical influences. His work addresses themes like racism, social inequality, and resilience. He is acclaimed for his improvisational skills and contributions to Brazilian hip hop culture.
+- ## **Gallery**
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/GZgnl5Ocuh8?si=UeKMyA2Xqe_I4vzd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/PTDgP3BDPIU?si=nlfWU6DrBf8mb6mN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- ## Similar artists
+		- | Influenced By       | Influenced       |
+		  |---------------------|------------------|
+		  | [[Gilberto Gil]]    | Projota     |
+		  | [[Wilson Simonal]] | Rashid          |
+		  | [[Mano Brown]] |            |

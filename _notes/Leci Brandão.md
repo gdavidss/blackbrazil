@@ -1,0 +1,30 @@
+---
+---
+
+- ---
+  ---
+- ![leci brandao.png](../assets/leci_brandao_1717739637809_0.png)
+- | **Full Name**     | Leci Brandão da Silva                   |
+  |-------------------|-------------------------------------------|
+  | **Date of Birth** | September 12, 1944                        |
+  | **Place of Birth**| Rio de Janeiro, RJ, Brazil                |
+  | **Genres**        | Samba                                     |
+  | **Occupations**   | Singer, Composer, Politician              |
+  | **Instruments**   | Vocal, Pandeiro, Surdo                    |
+  | **Active Years**  | 1970–present                              |
+  | **Affiliations**  | Cacique de Ramos, Mangueira, Alcione, Beth Carvalho, Zeca Pagodinho |
+- ## **Biography and Career**
+	- **Early Life:** Leci Brandão was born on September 12, 1944, in Rio de Janeiro. She began her musical career in the early 1970s, becoming the first woman to join the composers' wing of the Mangueira samba school.
+	- **Musical Achievements:** Over her career, she has recorded 13 LPs, 8 CDs, 2 DVDs, and 3 singles. Her notable songs include "Essa Tal Criatura" and "Isso É Fundo de Quintal." She has also acted in the telenovela "Xica da Silva."
+	- **Political Career:** Joined the Communist Party of Brazil (PCdoB) in 2010. Elected as a State Deputy for São Paulo in 2010 and re-elected in subsequent terms. Advocates for racial equality, women's rights, and LGBTQ+ issues.
+	- **Activism:** Known for her work in promoting social justice, Leci was the first famous Brazilian singer to come out as a lesbian. She has been a vocal advocate for LGBTQ+ rights, racial equality, and the rights of women and indigenous people.
+- ## **Gallery**
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/hSXIO0t4OlQ?si=lK4iKiURahGBGzR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/oRCB7fTpl3Y?si=oIZ2HH14WVpMb_dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/GPGEW0UMJl8?si=ineofu21fmMi-4zy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- ## **Similar Artists**
+	- | Influenced By       | Influenced                    |
+	  |---------------------|-------------------------------|
+	  | [[Alcione]]         | Mart'nália                    |
+	  | [[Beth Carvalho]]   | Teresa Cristina               |
+	  | [[Zeca Pagodinho]]  | Pretinho da Serrinha          |
